@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Konphil - Spider for deals in eCommerce**
 
-- 🌱 I’m currently learning **ASM X86, Cryptography, Gain further knowledge in C++ and Java, Advanced Networking,Blazor, Maui, Typescript and (although it has nothing to do with it) I am preparing the CEH and the English B2.**
+- 🌱 I’m currently learning **ASM X86, Cryptography, Gain further knowledge in C++ and Java, Advanced Networking, Blazor, Maui, Typescript and (although it has nothing to do with it) I am preparing the CEH and the English B2.**
 
 - 📝 I regularly write articles on [https://dtopiast.github.io/](https://dtopiast.github.io/)
 
