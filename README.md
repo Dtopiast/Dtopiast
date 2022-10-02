@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently working on **Konphil - Spider for deals in eCommerce**
+- 🔭 I’m currently working on **My Future** LOL
 
-- 🌱 I’m currently learning **ASM X86, Cryptography, Gain further knowledge in C++ and Java, Advanced Networking, Blazor, Maui, Typescript and (although it has nothing to do with it) I am preparing the CEH and the English B2.**
+- 🌱 I’m currently learning **ASM X86, Cryptography, Gain further knowledge in C++ and Java, Typescript and (although it has nothing to do with it) I am preparing the CEH and the English B2.**
 
-- 📝 I regularly write articles on [https://dtopiast.github.io/](https://dtopiast.github.io/)
+- 📝 I never write articles on [https://dtopiast.github.io/](https://dtopiast.github.io/)
 
-- 💬 Ask me about **C#, Python, Basic Sql, Java, Php vanilla ,C++, Bash, Networking and Cibersecurity essentials.**
+- 💬 Ask me about **C#, Basic Sql, Java, Php vanilla ,C++, Networking and Cibersecurity essentials.**
 
 - 📫 How to reach me **dtopiast@protonmail.com**
 
