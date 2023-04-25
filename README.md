@@ -11,13 +11,11 @@
 
 - 📝 I never write articles on [https://dtopiast.github.io/](https://dtopiast.github.io/)
 
-- 💬 Ask me about **C#, Basic Sql, Java, Php vanilla ,C++, Networking and Cibersecurity essentials.**
+- 💬 Ask me about **C#, Basic Sql, Java ,C++, Networking and Cibersecurity essentials.**
 
 - 📫 How to reach me **dtopiast@protonmail.com**
 
 - 📄 Know about my experiences [writing...](writing...)
-
-- ⚡ Fun fact **I have lost the development of a whole C2 (Artemis C2) developed in php vanilla because my hard disk has crashed :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
