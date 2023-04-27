@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Future** LOL
 
-- 🌱 I’m currently learning **ASM X86, Cryptography, Gain further knowledge in C++ and Java, Typescript and (although it has nothing to do with it) I am preparing the CEH and the English B2.**
+- 🌱 I’m currently learning ** Cryptography, Gain further knowledge in C++ and .Net, python and (although it has nothing to do with it) I am preparing the CEH and the English B2.**
 
 - 📝 I never write articles on [https://dtopiast.github.io/](https://dtopiast.github.io/)
 
