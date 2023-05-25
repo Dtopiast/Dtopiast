@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **OnionCrafter**
 
-- 🌱 I’m currently learning **Design Patterns, Software Arquitecture, Advanced .Net, Git and English **
+- 🌱 I’m currently learning **Design Patterns, Software Arquitecture, Advanced .Net, Git and English**
 
 - 📝 I never write articles on [https://dtopiast.github.io/](https://dtopiast.github.io/)
 
