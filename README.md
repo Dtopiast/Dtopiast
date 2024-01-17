@@ -11,7 +11,7 @@
 
 - 📝 I never write articles on [https://dtopiast.github.io/](https://dtopiast.github.io/)
 
-- 💬 Ask me about **C#, Basic Sql,Java , Basic C++, Networking and Cibersecurity essentials.**
+- 💬 Ask me about **C#, Java, Markdown, Basic Sql, Basic C++, Networking and Cibersecurity essentials.**
 
 - 📫 How to reach me **rafael789821@gmail.com**
 
