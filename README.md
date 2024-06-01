@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **OnionCrafter**
 
-- 🌱 I’m currently learning **Design Patterns, Software Arquitecture, Advanced .Net, Git and English**
+- 🌱 I’m currently learning **Design Patterns, Software Arquitecture, Advanced .Net, Git and English and java**
 
 - 📝 I never write articles on [https://dtopiast.github.io/](https://dtopiast.github.io/)
 
@@ -28,22 +28,4 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=dtopiast&show_icons=true&locale=en&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=dtopiast&theme=dark&hide_border=true"alt="dtopiast" width = 400>
 </p>
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dtopiast&show_icons=true&locale=en&layout=compact" alt="dtopiast" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dtopiast&show_icons=true&locale=en" alt="dtopiast" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtopiast&" alt="dtopiast" /></p>
-
-**Dtopiast/Dtopiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
