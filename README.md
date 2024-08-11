@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **OnionCrafter**
 
-- 🌱 I’m currently learning **Design Patterns, Software Arquitecture, Advanced .Net, Git and English and java**
+- 🌱 I’m currently learning **Design Patterns, Software Arquitecture, Advanced .Net, Git, English and java**
 
 - 📝 I never write articles on [https://dtopiast.github.io/](https://dtopiast.github.io/)
 
@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **rafael789821@gmail.com**
 
-- 📄 Know about my experiences [writing...](writing...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
